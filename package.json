@@ -1,0 +1,19 @@
+{
+  "name": "forumsync",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js -dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "forumsync"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mariadb": "^3.1.2"
+  }
+}
